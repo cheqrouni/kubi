@@ -21,6 +21,7 @@ Kubi is a webhook for the server part and has a cli for linux and windows users.
 
 - [General](#general)
   - [Parameters](#parameters)
+  - [Versioning](#versioning)
 - [Client](#client)
   - [For Windows users](#for-windows-users)
   - [For Linux](#for-linux)
@@ -106,6 +107,8 @@ For specific exceptions, add another network policy.
  
 Since version v0.24.0, we have decided to modify the naming of versions for ease of reading and understanding.
 Example: v0.24.0 means that the operator was developed for Kubernetes version 1.24 and that the last 0 corresponds to the various patches we have made to the operator.
+
+
 # Client
 
 
